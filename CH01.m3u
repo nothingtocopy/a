@@ -25,8 +25,6 @@ https://streaming.meteonews.net/hls/stream.m3u8
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-name="Radio 3i (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SWITZERLAND",Radio 3i (Webradio)
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
-#EXTINF:-1 tvg-name="Radio Argovia 90.3 FM Aarau (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/dANlbjX.png" group-title="SWITZERLAND",Radio Argovia 90.3 FM Aarau (Webradio)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-name="Radio Pilatus (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
@@ -35,8 +33,6 @@ https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1 tvg-name="Schweiz 5" tvg-id="SCHWEIZ5.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/AoWrARg.png",Schweiz 5
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
-#EXTINF:-1 tvg-name="SWISS Sport TV 24/7" tvg-id="" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg",SWISS Sport TV 24/7
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8
 #EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele1.ch" tvg-id="" group-title="SWITZERLAND" tvg-logo="https://icanlive.tv/pictures/tele1.jpg",Tele 1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" tvg-id="" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/ctqC5dp.png",Tele M1 HD
@@ -44,7 +40,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy
 #EXTINF:-1 tvg-name="Telebasel" tvg-id="Telebasel HD CH" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SWITZERLAND",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-name="TeleBarn" tvg-id="TeleBarn.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg",TeleBarn
-https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
 #EXTINF:-1 tvg-name="TeleBielingue" tvg-id="" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-name="TeleTicino" tvg-id="TeleTicino.ch" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
