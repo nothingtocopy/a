@@ -416,5 +416,5 @@ https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/playlist.m3u8
 https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 #EXTINF:-1 tvg-name="ZU TV (RO)" tvg-id="" tvg-logo="https://i.imgur.com/rgC9lFh.jpg" group-title="MUSIC",ZU TV (RO) 
 https://ivm.antenaplay.ro/live/zutv/playlist.m3u8
-#EXTINF:-1 tvg-name="ZWEI2 Music (SI)" tvg-id="" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="MUSIC",ZWEI2 Music (SI)
+#EXTINF:-1 tvg-name="ZWEI2 Music (DE)" tvg-id="" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="MUSIC",ZWEI2 Music (DE)
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
