@@ -47,6 +47,8 @@ https://live.pars-israel.com/iptv/stream.m3u8
 http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
 #EXTINF:-1 tvg-name="Kayhan TV" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="AFGHANISTAN",Kayhan TV
 http://208.93.117.113/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-name="Khyber News" tvg-logo="https://i.imgur.com/N0uIwnd.png" group-title="AFGHANISTAN",Khyber News
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Manoto TV" tvg-logo="https://i.imgur.com/LUg5RoP.png" group-title="AFGHANISTAN",Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-name="Mihan TV" tvg-logo="https://i.imgur.com/yl07Mvj.jpg" group-title="AFGHANISTAN",Mihan TV
@@ -59,7 +61,7 @@ https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 #EXTINF:-1 tvg-name="Oxir TV" tvg-logo="https://i.imgur.com/rDErJld.jpg" group-title="AFGHANISTAN",Oxir TV
 http://51.210.199.36/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Pamir TV" tvg-logo="https://i.imgur.com/3OK6Nj5.png" group-title="AFGHANISTAN",Pamir TV
+#EXTINF:-1 tvg-name="Pamir TV Music" tvg-logo="https://i.imgur.com/3OK6Nj5.png" group-title="AFGHANISTAN",Pamir TV Music
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/0CeWiFP.png" group-title="AFGHANISTAN",Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
@@ -83,6 +85,8 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Shabakeh 7" tvg-logo="https://i.imgur.com/UWFT2fE.jpg" group-title="AFGHANISTAN",Shabakeh 7
 http://rtmp.abnsat.com/hls/txministry.m3u8
+#EXTINF:-1 tvg-name="Shamshad TV" tvg-logo="https://i.imgur.com/ugRoN0t.jpg" group-title="AFGHANISTAN",Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 tvg-name="Simaye Azadi" tvg-logo="https://i.imgur.com/ZAndg1I.jpg" group-title="AFGHANISTAN",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-name="Subrang TV USA" tvg-logo="https://i.imgur.com/Do6gXSH.png" group-title="AFGHANISTAN",Subrang TV USA
