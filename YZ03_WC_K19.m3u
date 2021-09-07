@@ -119,16 +119,22 @@ plugin://plugin.video.youtube/play/?video_id=viOkh9al0xM
 plugin://plugin.video.youtube/play/?video_id=-imG6CNF9kI
 #EXTINF:-1 tvg-name="Geirangerfjord Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/b02r02l.png" group-title="WEBCAMS",Geirangerfjord Port (NO) YT
 plugin://plugin.video.youtube/play/?video_id=yMSc-qqW3To
+#EXTINF:-1 tvg-name="Hotel Nordkap Kjøllefjord (NO)" tvg-id="" tvg-logo="https://i.imgur.com/CIc8lhR.png" group-title="WEBCAMS",Hotel Nordkap Kjøllefjord (NO)
+http://77.222.208.194:8081/axis-cgi/mjpg/video.cgi?resolution=4CIF&dummy=1630895705441
 #EXTINF:-1 tvg-name="Jorpeland Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/KaIwBFA.png" group-title="WEBCAMS",Jorpeland Port (NO) YT
 plugin://plugin.video.youtube/play/?video_id=SyKE9_Mtjv0
 #EXTINF:-1 tvg-name="Måløy (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/uLOmRlM.png" group-title="WEBCAMS",Måløy (NO) YT
 plugin://plugin.video.youtube/play/?video_id=-VxViCUlZVk
+#EXTINF:-1 tvg-name="Nordfjordeid Port (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/ThvuKsJ.png" group-title="WEBCAMS",Nordfjordeid Port (NO) YT
+plugin://plugin.video.youtube/play/?video_id=atjCv4LYjTI
 #EXTINF:-1 tvg-name="NordfjordHjort (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/IbxmruM.jpg" group-title="WEBCAMS",NordfjordHjort (NO) YT
 plugin://plugin.video.youtube/play/?video_id=fpWVAZRb0R0
 #EXTINF:-1 tvg-name="Norway Live (NO)" tvg-id="" tvg-logo="https://i.imgur.com/nto95o0.jpg" group-title="WEBCAMS",Norway Live (NO)
 plugin://plugin.video.youtube/play/?video_id=A86RXuRNjk4
 #EXTINF:-1 tvg-name="Skarsvåg North Cape (NO) YT" tvg-id="" tvg-logo="https://i.imgur.com/b6Crv6W.png" group-title="WEBCAMS",Skarsvåg North Cape (NO) YT
 plugin://plugin.video.youtube/play/?video_id=c4kpeZHcke8
+#EXTINF:-1 tvg-name="Tromsø (NO)" tvg-id="" tvg-logo="https://i.imgur.com/xW00Hj4.jpg" group-title="WEBCAMS",Tromsø (NO)
+plugin://plugin.video.youtube/play/?video_id=cXKX8A37W2I
 #EXTINF:-1 tvg-name="Gdansk (PL)" tvg-id="" tvg-logo="https://i.imgur.com/OCCT7Tm.png" group-title="WEBCAMS",Gdansk (PL)
 http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Krakow (PL)" tvg-id="" tvg-logo="https://i.imgur.com/XPS4H6p.png" group-title="WEBCAMS",Krakow (PL)
