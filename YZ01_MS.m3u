@@ -93,8 +93,6 @@ http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
 http://82.76.210.127:1935/dibitv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" tvg-logo="https://i.imgur.com/p5rREUo.png" group-title="MUSIC",Ditty TV (US)
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-name="Dream TV (IN)" tvg-id="" tvg-logo="https://i.imgur.com/ujxpEFo.jpg" group-title="MUSIC",Dream TV (IN)
-https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 #EXTINF:-1 tvg-name="DSTV (BG)" tvg-id="" tvg-logo="https://i.imgur.com/2vRfj1D.png" group-title="MUSIC",DSTV (BG)
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-name="EBC1 Music TV (AF)" tvg-id="" tvg-logo="https://i.imgur.com/RhwcgTI.jpg" group-title="MUSIC",EBC1 Music TV (AF)
