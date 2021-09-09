@@ -6,7 +6,9 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
 #EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" tvg-logo="https://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="GERMANY",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="https://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
