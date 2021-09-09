@@ -24,7 +24,7 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
+http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -67,12 +67,14 @@ http://srfsils-i.akamaihd.net/dash/live/693054/srfsgeo/manifest.mpd
 http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="GERMANY",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-name="*** NEWS DE **********" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE **********
 https://
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-name="WELT Live Stream" tvg-id="WELT.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT Live Stream
