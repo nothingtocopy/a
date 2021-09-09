@@ -2,9 +2,13 @@
 #EXTINF:-1 tvg-name=""*** GERMANY **********" group-title="GERMANY" tvg-logo="https://i.imgur.com/xku2oyd.png","*** GERMANY **********
 rtsp://192.168.178.24:554/12
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.daserste.de/daserste/dash/manifest.mpd
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -12,35 +16,55 @@ http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
 #EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" tvg-logo="https://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="GERMANY",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="https://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="https://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png" group-title="GERMANY",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://onelivedash-i.akamaihd.net/dash/live/1006012/one/dash.mpd
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
 #EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="ndr.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://ndrfs-i.akamaihd.net/dash/live/923084/ndr_fs/ndr_nds.mpd
 #EXTINF:-1 tvg-name="WDR Köln" tvg-id="WDR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
 #EXTINF:-1 tvg-name="HR" tvg-id="HR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-name="MDR SACHSEN" tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/WVkYbb6.jpg" group-title="GERMANY",MDR SACHSEN
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
 #EXTINF:-1 tvg-name="MDR SACHSEN-ANHALT" tvg-id="MDRS-Anhalt.de" tvg-logo="https://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png" group-title="GERMANY",MDR SACHSEN-ANHALT
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
-#EXTINF:-1 tvg-name="MDR THÜRINGEN" tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/FkYKXZi.png" group-title="GERMANY",MDR THÜRINGEN
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
 #EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" tvg-logo="https://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png" group-title="GERMANY",rbb Berlin
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
 #EXTINF:-1 tvg-name="SWR BW" tvg-id="SWR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
-https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://swrbwdash-i.akamaihd.net/dash/live/654570/swrbw_live/manifest.mpd
 #EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
-https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://srfsils-i.akamaihd.net/dash/live/693054/srfsgeo/manifest.mpd
 #EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="BR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
-https://mcdn.br.de/bfs_sued/de/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="GERMANY",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
@@ -78,6 +102,8 @@ https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:-1 tvg-name="*** KIDS DE **********" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE **********
 https://
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" tvg-logo="https://i.imgur.com/qodAT7g.jpg" group-title="GERMANY",Kika
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" tvg-logo="https://i.imgur.com/yka7yJm.png" group-title="GERMANY",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
