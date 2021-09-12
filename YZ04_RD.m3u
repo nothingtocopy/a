@@ -32,7 +32,7 @@ https://streamingv2.shoutcast.com/afghan-radio--station
 #EXTINF:-1 tvg-name="Afghan Radio" group-title="RADIO AFGHANISTAN" radio="true" tvg-logo="https://i.imgur.com/f7pAUiw.png",Afghan Radio
 https://streamingv2.shoutcast.com/afghan-radio--station
 #EXTINF:-1 tvg-name="Afghan Voice Radio" group-title="RADIO AFGHANISTAN" radio="true" tvg-logo="https://i.imgur.com/YTMwft6.png",Afghan Voice Radio
-http://uk3-pn.webcast-server.net:8424/
+https://solid41.streamupsolutions.com/proxy/lmuespnh?mp=/;type=mp3
 #EXTINF:-1 tvg-name="Ariana FM" group-title="RADIO AFGHANISTAN" radio="true" tvg-logo="https://i.imgur.com/DI7tEsb.jpg",Ariana FM
 https://streams.radio.co/sa3345aaa8/listen
 #EXTINF:-1 tvg-name="****** RADIO OLDIES ******" group-title="RADIO OLDIES" radio="true" tvg-logo="https://i.imgur.com/Jv8DmQr.jpg",****** RADIO OLDIES ******

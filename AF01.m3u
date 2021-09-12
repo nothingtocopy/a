@@ -22,9 +22,9 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="AVA Entertain" tvg-logo="https://i.imgur.com/sQQh0OV.jpg" group-title="AFGHANISTAN",AVA Entertain
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 #EXTINF:-1 tvg-name="AVA Family" tvg-logo="https://i.imgur.com/7q2906U.jpg" group-title="AFGHANISTAN",AVA Family
-http://51.210.199.5/hls/stream.m3u8
+http://ip5.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AVA Series" tvg-logo="https://i.imgur.com/sff36GC.jpg" group-title="AFGHANISTAN",AVA Series
-http://51.210.199.4/hls/stream.m3u8
+http://ip4.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Avang TV" tvg-logo="https://i.imgur.com/V1Y9SWU.png" group-title="AFGHANISTAN",Avang TV
 http://appavang.flashmediacast.com:1935/Appavang/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ayeneh TV" tvg-logo="https://i.imgur.com/tVHQ0Uj.png" group-title="AFGHANISTAN",Ayeneh TV
@@ -58,7 +58,7 @@ http://iptv.mihantv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="MTC Music" tvg-id="" tvg-logo="https://i.imgur.com/RSFhk7n.jpg" group-title="AFGHANISTAN",MTC Music
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Navahang TV Music" tvg-logo="https://i.imgur.com/LwgynrI.jpg" group-title="AFGHANISTAN",Navahang TV Music
-http://51.210.227.130/hls/stream.m3u8
+http://ip130.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Negah TV" tvg-logo="https://i.imgur.com/2Dzk8uS.jpg" group-title="AFGHANISTAN",Negah TV
 https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 #EXTINF:-1 tvg-name="Noor TV" tvg-logo="https://i.imgur.com/XtInCHU.jpg" group-title="AFGHANISTAN",Noor TV
@@ -66,7 +66,7 @@ https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 tvg-name="Omid Javedan" tvg-logo="https://i.imgur.com/xtcpfck.png" group-title="AFGHANISTAN",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 #EXTINF:-1 tvg-name="Oxir TV" tvg-logo="https://i.imgur.com/rDErJld.jpg" group-title="AFGHANISTAN",Oxir TV
-http://51.210.199.36/hls/stream.m3u8
+http://ip36.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pamir TV Music" tvg-logo="https://i.imgur.com/3OK6Nj5.png" group-title="AFGHANISTAN",Pamir TV Music
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/0CeWiFP.png" group-title="AFGHANISTAN",Parnian TV
@@ -78,9 +78,9 @@ https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b0861
 #EXTINF:-1 tvg-name="Payam Javan TV" tvg-logo="https://i.imgur.com/I7DpVHF.jpg" group-title="AFGHANISTAN",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Persiana 1" tvg-logo="https://i.imgur.com/bNwMWnP.jpg" group-title="AFGHANISTAN",Persiana 1
-http://51.210.199.21/hls/stream.m3u8
+http://ip21.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="PERSIANA MUSIC" tvg-id="" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="AFGHANISTAN",PERSIANA MUSIC
-http://51.210.199.24/hls/stream.m3u8
+http://ip24.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persian Music Channel PMC" tvg-logo="https://i.imgur.com/mUidRpB.png" group-title="AFGHANISTAN",Persian Music Channel PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="PTV TV" tvg-logo="https://i.imgur.com/dmSorFv.jpg" group-title="AFGHANISTAN",PTV TV
@@ -102,7 +102,7 @@ https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-name="Tapesh" tvg-logo="https://i.imgur.com/9qpF9jT.png" group-title="AFGHANISTAN",Tapesh
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 tvg-name="Tapesh 2 Music" tvg-logo="https://i.imgur.com/6PKwnXK.jpg" group-title="AFGHANISTAN",Tapesh 2 Music
-http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+http://ds12675.dreamservers.com:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:-1 tvg-name="TIN TV" tvg-logo="https://i.imgur.com/8yhxieZ.jpg" group-title="AFGHANISTAN",TIN TV
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tolo TV" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo TV
