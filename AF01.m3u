@@ -90,13 +90,15 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/cEfoKlV.jpg" group-title="AFGHANISTAN",Radio Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
-http://51.210.227.133/hls/stream.m3u8
+http://ip133.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Shabakeh 7" tvg-logo="https://i.imgur.com/UWFT2fE.jpg" group-title="AFGHANISTAN",Shabakeh 7
 http://rtmp.abnsat.com/hls/txministry.m3u8
 #EXTINF:-1 tvg-name="Shamshad TV" tvg-logo="https://i.imgur.com/ugRoN0t.jpg" group-title="AFGHANISTAN",Shamshad TV
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 tvg-name="Simaye Azadi" tvg-logo="https://i.imgur.com/ZAndg1I.jpg" group-title="AFGHANISTAN",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 tvg-name="Solh TV" tvg-logo="https://i.imgur.com/QEtdWda.jpg" group-title="AFGHANISTAN",Solh TV
+http://ip42.ip-51-210-199.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Subrang TV USA" tvg-logo="https://i.imgur.com/Do6gXSH.png" group-title="AFGHANISTAN",Subrang TV USA
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-name="Tapesh" tvg-logo="https://i.imgur.com/9qpF9jT.png" group-title="AFGHANISTAN",Tapesh
