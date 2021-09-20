@@ -26,22 +26,20 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://onelivedash-i.akamaihd.net/dash/live/1006012/one/dash.mpd
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
-#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="ndr.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
+#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="NDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://ndrfs-i.akamaihd.net/dash/live/923084/ndr_fs/ndr_nds.mpd
-#EXTINF:-1 tvg-name="WDR Köln" tvg-id="WDR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
+#EXTINF:-1 tvg-name="WDR Köln" tvg-id="WDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR Köln
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
-#EXTINF:-1 tvg-name="HR" tvg-id="HR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
+#EXTINF:-1 tvg-name="HR" tvg-id="HRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
@@ -53,7 +51,7 @@ http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
-#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de"" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://swrbwdash-i.akamaihd.net/dash/live/654570/swrbw_live/manifest.mpd
@@ -61,7 +59,7 @@ http://swrbwdash-i.akamaihd.net/dash/live/654570/swrbw_live/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://srfsils-i.akamaihd.net/dash/live/693054/srfsgeo/manifest.mpd
-#EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="BR.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
+#EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="BRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
@@ -70,16 +68,16 @@ https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name="*** NEWS DE **********" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE **********
 https://
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-name="WELT Live Stream" tvg-id="WELT.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT Live Stream
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
-#EXTINF:-1 tvg-name="Bild TV Live" tvg-id="WELT.de" tvg-logo="https://i.imgur.com/dV3u1uS.png" group-title="GERMANY",Bild TV Live
+#EXTINF:-1 tvg-name="Bild TV Live" tvg-id="BILD.de"" tvg-logo="https://i.imgur.com/dV3u1uS.png" group-title="GERMANY",Bild TV Live
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV (for DE but english)" tvg-id="DEBA3300027ZJ" tvg-logo="https://i.imgur.com/qx2uHRU.png" group-title="GERMANY",Bloomberg TV (for DE but english)
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
