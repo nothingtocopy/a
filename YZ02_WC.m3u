@@ -169,8 +169,10 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bkvaeX5EoUs
 #EXTINF:-1 tvg-name="Berdyansk Hall (UA)" tvg-id="" tvg-logo="https://i.imgur.com/WPS2AiI.jpg" group-title="WEBCAMS",Berdyansk Hall (UA)
 https://stream.bmr.gov.ua/hls/511.m3u8
-#EXTINF:-1 tvg-name="Ilfracombe (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe (UK)
+#EXTINF:-1 tvg-name="Ilfracombe 1 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe 1 (UK)
 http://camsecure.co/HLS/ilfracombe2.m3u8
+#EXTINF:-1 tvg-name="Ilfracombe 2 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe 2 (UK)
+http://camsecure.co/HLS/ilfracombe1.m3u8
 #EXTINF:-1 tvg-name="Lindisfarne Castle (UK)" tvg-id="" tvg-logo="https://i.imgur.com/ryI0xG6.jpg" group-title="WEBCAMS",Lindisfarne Castle (UK)
 https://s21.ipcamlive.com/streams/15wa40vflgrui6yrs/stream.m3u8
 #EXTINF:-1 tvg-name="LONDON BUS RIDES (UK) YT" tvg-id="" tvg-logo="https://i.imgur.com/zakw9IH.png" group-title="WEBCAMS",LONDON BUS RIDES (UK) YT
