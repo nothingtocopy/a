@@ -102,7 +102,7 @@ http://iptv.saima.kg/hls-cam/berengold.m3u8
 #EXTINF:-1 tvg-name="Aktau - Caspian Coast (KZ)" tvg-id="" tvg-logo="https://i.imgur.com/ev8YFyR.png" group-title="WEBCAMS",Aktau - Caspian Coast (KZ)
 http://cam.x-com.kz:8081/caspy14/index.m3u8
 #EXTINF:-1 tvg-name="Egmond aan Zee - Bad Egmond (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Bad Egmond (NL) YT
-plugin://plugin.video.youtube/play/?video_id=VfVOZ1ailwc
+plugin://plugin.video.youtube/play/?video_id=Mqa6Sso-g3A
 #EXTINF:-1 tvg-name="Egmond aan Zee - Strandafgang (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Strandafgang (NL) YT
 plugin://plugin.video.youtube/play/?video_id=guULTauXDlA
 #EXTINF:-1 tvg-name="Egmond aan Zee - Boulevard (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Boulevard (NL) YT

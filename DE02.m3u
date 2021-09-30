@@ -48,23 +48,21 @@ https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
 #EXTINF:-1 tvg-name="Health.TV" tvg-id="" tvg-logo="https://i.imgur.com/3rzr3zm.png" group-title="GERMANY LOCAL",Health.TV
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jena TV" tvg-id="" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="GERMANY LOCAL",Jena TV
-https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
+https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal 12 Spremberg TV" tvg-id="" tvg-logo="https://i.imgur.com/DuHNGCq.png" group-title="GERMANY LOCAL",Kanal 12 Spremberg TV
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="KulturMD Magdeburg" tvg-id="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="GERMANY LOCAL",KulturMD Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=472427
 #EXTINF:-1 tvg-name="KW-TV" tvg-id="" tvg-logo="https://i.imgur.com/6wGQCcT.jpg" group-title="GERMANY LOCAL",KW-TV
 https://58af0c57eaf3e.streamlock.net/easycast11-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="L-TV Ludwigsburg" tvg-id="L-TV.de" tvg-logo="https://i.imgur.com/jVUkWqO.png" group-title="GERMANY LOCAL",L-TV Ludwigsburg
-https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
+https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
 #EXTINF:-1 tvg-name="Lausitzwelle Fernsehen" tvg-id="" tvg-logo="https://i.imgur.com/GNMaGZE.png" group-title="GERMANY LOCAL",Lausitzwelle Fernsehen
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8?&ref=www.lausitzwelle.de
 #EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="Leipzig Fernsehen" tvg-logo="https://i.imgur.com/v4uOMOt.png" group-title="GERMANY LOCAL",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="MDF.1 Magdeburg" tvg-id="MDF.1" tvg-logo="https://i.imgur.com/NG7DJLz.png" group-title="GERMANY LOCAL",MDF.1 Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536
-#EXTINF:-1 tvg-name="Metropol Region TV (Rhein-Neckar)" tvg-id="" tvg-logo="https://i.imgur.com/6mmKLJq.jpg" group-title="GERMANY LOCAL",Metropol Region TV (Rhein-Neckar)
-https://5852afe96c9bb.streamlock.net/metropolregiontv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Muxx.tv" tvg-id="" tvg-logo="https://i.imgur.com/QUOxNbF.png" group-title="GERMANY LOCAL",Muxx.tv
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8 
 #EXTINF:-1 tvg-name="München.tv" tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/QwW5YpW.png" group-title="GERMANY LOCAL",München.tv
@@ -74,7 +72,7 @@ https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nahe TV" tvg-id="" tvg-logo="https://i.imgur.com/XINB3Zf.png" group-title="GERMANY LOCAL",Nahe TV
 https://s.ok54.de/nahetv/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV" tvg-id="niederbayerntv.de" tvg-logo="https://i.imgur.com/swstGF1.png" group-title="GERMANY LOCAL",Niederbayern TV
-https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="noa4 Hamburg HD" tvg-logo="https://i.imgur.com/N0s7NhQ.png" group-title="GERMANY LOCAL",noa4 Hamburg HD
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="noa4 Norderstedt HD" tvg-logo="https://i.imgur.com/4xc8Atb.png" group-title="GERMANY LOCAL",noa4 Norderstedt HD
@@ -206,7 +204,7 @@ https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3
 #EXTINF:-1 tvg-name="UnserDing Saarbrücken (Webradio)" tvg-id="UnserDing" tvg-logo="https://i.imgur.com/fo7TDbN.png" group-title="GERMANY LOCAL",UnserDing Saarbrücken (Webradio)
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name="Westerwald TV" tvg-id="Westerwald TV" tvg-logo="https://i.imgur.com/UNbYm1i.png" group-title="GERMANY LOCAL",Westerwald TV
-https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-name="WTV Wettin" tvg-id="WTV Wettin" tvg-logo="https://i.imgur.com/whkL3zr.png" group-title="GERMANY LOCAL",WTV Wettin
 http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" tvg-logo="https://i.imgur.com/uLXdJZ3.png" group-title="GERMANY LOCAL",Parlamentsfernsehen 1

@@ -37,8 +37,6 @@ https://vid1.caltexmusic.com/hls/caltextv.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 tvg-name="EBC1 Music TV" tvg-logo="https://i.imgur.com/RhwcgTI.jpg" group-title="AFGHANISTAN",EBC1 Music TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ganje Hozour" tvg-logo="https://i.imgur.com/2aAomoj.jpg" group-title="AFGHANISTAN",Ganje Hozour
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
 #EXTINF:-1 tvg-name="High Vision" tvg-logo="https://i.imgur.com/y70zmgJ.jpg" group-title="AFGHANISTAN",High Vision
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Iman TV" tvg-logo="https://i.imgur.com/NSc8mjS.jpg" group-title="AFGHANISTAN",Iman TV
@@ -46,11 +44,13 @@ https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
 #EXTINF:-1 tvg-name="Israel Pars TV" tvg-logo="https://i.imgur.com/gwCiH9e.jpg" group-title="AFGHANISTAN",Israel Pars TV
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 tvg-name="Kalemeh TV" tvg-logo="https://i.imgur.com/1qx0qjR.jpg" group-title="AFGHANISTAN",Kalemeh TV
-http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
-#EXTINF:-1 tvg-name="Kayhan TV" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="AFGHANISTAN",Kayhan TV
-http://208.93.117.113/live/Stream1/playlist.m3u8
+http://184.75.208.99:1935/live/kalemeh/chunklist.m3u8
+#EXTINF:-1 tvg-name="Kayhan TV Music" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="AFGHANISTAN",Kayhan TV Music
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1549991097.m3u8
 #EXTINF:-1 tvg-name="Khyber News" tvg-logo="https://i.imgur.com/N0uIwnd.png" group-title="AFGHANISTAN",Khyber News
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name="Lemar TV" tvg-logo="https://i.imgur.com/6l9YYEs.png" group-title="AFGHANISTAN",Lemar TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
 #EXTINF:-1 tvg-name="Manoto TV" tvg-logo="https://i.imgur.com/LUg5RoP.png" group-title="AFGHANISTAN",Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-name="Mihan TV" tvg-logo="https://i.imgur.com/yl07Mvj.jpg" group-title="AFGHANISTAN",Mihan TV
@@ -109,6 +109,10 @@ http://ds12675.dreamservers.com:8123/live/tapesh-live-stream/index.m3u8
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tolo TV" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo News
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1 tvg-name="Tolo Music" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo Music
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 #EXTINF:-1 tvg-name="VOA Persian" tvg-logo="https://i.imgur.com/y4C7Fyc.png" group-title="AFGHANISTAN",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 tvg-name="WATAN-E-MAA" tvg-logo="https://i.imgur.com/AJHDiLj.jpg" group-title="AFGHANISTAN",WATAN-E-MAA

@@ -9,8 +9,6 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 https://edge3.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-name="Die Neue Zeit" tvg-id="" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SWITZERLAND",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
-#EXTINF:-1 tvg-name="Dieu TV" tvg-id="" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal 9" tvg-id="" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-name="La Tele" tvg-id="" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
@@ -47,8 +45,6 @@ https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/Cm9W0kh.png",Telezürich
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8
-#EXTINF:-1 tvg-name="Teletubbies CH" tvg-id="" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="SWITZERLAND",Teletubbies CH
-https://dhx-teletubbies-3-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel XP CH" tvg-id="" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SWITZERLAND",Travel XP CH
 https://travelxp-travelxp-2-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://i.imgur.com/rpTT8QD.png" group-title="SWITZERLAND",TVM 3
