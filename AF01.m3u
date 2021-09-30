@@ -109,9 +109,9 @@ http://ds12675.dreamservers.com:8123/live/tapesh-live-stream/index.m3u8
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tolo TV" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-#EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo News
+#EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://i.imgur.com/yXIL0T3.png" group-title="AFGHANISTAN",Tolo News
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
-#EXTINF:-1 tvg-name="Tolo Music" tvg-logo="https://i.imgur.com/jyrfVWu.jpg" group-title="AFGHANISTAN",Tolo Music
+#EXTINF:-1 tvg-name="Tolo Music" tvg-logo="https://i.imgur.com/JOUsWeL.jpg" group-title="AFGHANISTAN",Tolo Music
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 #EXTINF:-1 tvg-name="VOA Persian" tvg-logo="https://i.imgur.com/y4C7Fyc.png" group-title="AFGHANISTAN",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
