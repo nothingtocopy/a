@@ -10,7 +10,7 @@ https://outbound-production.explore.org/stream-production-317/.m3u8
 #EXTINF:-1 tvg-name="Africam 4" tvg-id="" tvg-logo="https://i.imgur.com/NzGbcPd.jpg" group-title="WEBCAMS",Africam 4
 https://outbound-production.explore.org/stream-production-49/.m3u8
 #EXTINF:-1 tvg-name="Amsterdam (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/0Mksg4A.png" group-title="WEBCAMS",Amsterdam (NL) YT
-plugin://plugin.video.youtube/play/?video_id=yST7Ux0ypUM
+plugin://plugin.video.youtube/play/?video_id=86sjgqrpFqs
 #EXTINF:-1 tvg-name="Argentina (AR)" tvg-id="" tvg-logo="https://i.imgur.com/x9W7AoU.png" group-title="WEBCAMS",Argentina (AR)
 http://200.50.248.57:8080/Camara1/index.m3u8
 #EXTINF:-1 tvg-name="Austria (AT)" tvg-id="" tvg-logo="https://i.imgur.com/RqwwAU5.png" group-title="WEBCAMS",Austria (AT)
@@ -45,8 +45,8 @@ https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
 plugin://plugin.video.youtube/play/?video_id=FrkqJo0s1oA
 #EXTINF:-1 tvg-name="Nord-Ostsee-Kanal Schleuse Brunsbüttel (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/LSwzZpg.png" group-title="WEBCAMS",Nord-Ostsee-Kanal Schleuse Brunsbüttel (DE) YT
 plugin://plugin.video.youtube/play/?video_id=ydgDnq32rYM
-#EXTINF:-1 tvg-name="Warnemünde Yachthafen (DE)" tvg-id="" tvg-logo="https://i.imgur.com/EDbV6jx.jpg" group-title="WEBCAMS",Warnemünde Yachthafen (DE)
-https://s31.ipcamlive.com/streams/1fah0jb6jktqwpvwg/stream.m3u8
+#EXTINF:-1 tvg-name="Warnemünde Yachthafen  (DE)" tvg-id="" tvg-logo="https://i.imgur.com/EDbV6jx.jpg" group-title="WEBCAMS",Warnemünde Yachthafen (DE)
+https://s4.ipcamlive.com/streams/04gkmvce6ni4xzuiw/stream.m3u8
 #EXTINF:-1 tvg-name="White Stork (DE) YT" tvg-id="" tvg-logo="https://i.imgur.com/HgMvW01.png" group-title="WEBCAMS",White Stork (DE) YT
 plugin://plugin.video.youtube/play/?video_id=K7rjApxYPtQ
 #EXTINF:-1 tvg-name="Vejers Strand 1 (DK) YT" tvg-id="" tvg-logo="https://i.imgur.com/VrfX5g8.png" group-title="WEBCAMS",Vejers Strand 1 (DK) YT
@@ -102,9 +102,9 @@ http://iptv.saima.kg/hls-cam/berengold.m3u8
 #EXTINF:-1 tvg-name="Aktau - Caspian Coast (KZ)" tvg-id="" tvg-logo="https://i.imgur.com/ev8YFyR.png" group-title="WEBCAMS",Aktau - Caspian Coast (KZ)
 http://cam.x-com.kz:8081/caspy14/index.m3u8
 #EXTINF:-1 tvg-name="Egmond aan Zee - Bad Egmond (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Bad Egmond (NL) YT
-plugin://plugin.video.youtube/play/?video_id=Mqa6Sso-g3A
+plugin://plugin.video.youtube/play/?video_id=oPZFt-brloE
 #EXTINF:-1 tvg-name="Egmond aan Zee - Strandafgang (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Strandafgang (NL) YT
-plugin://plugin.video.youtube/play/?video_id=guULTauXDlA
+plugin://plugin.video.youtube/play/?video_id=8UOT4PAxWmE
 #EXTINF:-1 tvg-name="Egmond aan Zee - Boulevard (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/DMsmIaA.jpg" group-title="WEBCAMS",Egmond aan Zee - Boulevard (NL) YT
 plugin://plugin.video.youtube/play/?video_id=L2obWMdThDg
 #EXTINF:-1 tvg-name="Egmond aan Zee - Nautilus (NL) YT" tvg-id="" tvg-logo="https://i.imgur.com/RFjsI3P.jpg" group-title="WEBCAMS",Egmond aan Zee - Nautilus (NL) YT
@@ -174,7 +174,7 @@ http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1 tvg-name="Ilfracombe 2 (UK)" tvg-id="" tvg-logo="https://i.imgur.com/0hn7fBF.jpg" group-title="WEBCAMS",Ilfracombe 2 (UK)
 http://camsecure.co/HLS/ilfracombe1.m3u8
 #EXTINF:-1 tvg-name="Lindisfarne Castle (UK)" tvg-id="" tvg-logo="https://i.imgur.com/ryI0xG6.jpg" group-title="WEBCAMS",Lindisfarne Castle (UK)
-https://s21.ipcamlive.com/streams/15wa40vflgrui6yrs/stream.m3u8
+https://s21.ipcamlive.com/streams/15r7g3jzqxuhrkcm8/stream.m3u8
 #EXTINF:-1 tvg-name="LONDON BUS RIDES (UK) YT" tvg-id="" tvg-logo="https://i.imgur.com/zakw9IH.png" group-title="WEBCAMS",LONDON BUS RIDES (UK) YT
 plugin://plugin.video.youtube/play/?video_id=AFn2ogJZoPU
 #EXTINF:-1 tvg-name="London Underground Person Journey (UK) YT" tvg-id="" tvg-logo="https://i.imgur.com/zakw9IH.png" group-title="WEBCAMS",London Underground Person Journey (UK) YT

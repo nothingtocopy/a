@@ -185,12 +185,6 @@ http://ip130.ip-51-210-227.eu/hls/stream.m3u8
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Nisville TV (RS)" tvg-id="" tvg-logo="https://i.imgur.com/uEBWGVj.png" group-title="MUSIC",Nisville TV (RS)
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1 tvg-name="Now 70's (AU)" tvg-id="" tvg-logo="https://i.imgur.com/yz0J7UZ.png" group-title="MUSIC",Now 70's (AU)
-https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now 80's (AU)" tvg-id="" tvg-logo="https://i.imgur.com/Dq1vSHe.png" group-title="MUSIC",Now 80's (AU)
-https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now 90's (AU)" tvg-id="" tvg-logo="https://i.imgur.com/dpqj0XQ.jpg" group-title="MUSIC",Now 90's (AU)
-https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NRG TV (GR)" tvg-id="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC",NRG TV (GR)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 tvg-name="NSL (IT)" tvg-id="" tvg-logo="https://i.imgur.com/RuKM6W8.jpg" group-title="MUSIC",NSL (IT)

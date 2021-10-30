@@ -28,9 +28,7 @@ http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="NDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -52,9 +50,7 @@ http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
 #EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de"" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://swrbwdash-i.akamaihd.net/dash/live/654570/swrbw_live/manifest.mpd
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -64,7 +60,7 @@ http://srfsils-i.akamaihd.net/dash/live/693054/srfsgeo/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="GERMANY",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="*** NEWS DE **********" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE **********
 https://
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
