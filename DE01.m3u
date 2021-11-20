@@ -26,9 +26,13 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.one.ard.de/ardone/dash/manifest.mpd
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
 #EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="NDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -49,7 +53,7 @@ http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
-#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de"" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -68,7 +72,9 @@ https://
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://tagesschaudash-i.akamaihd.net/dash/live/923098/tagesschau/tagesschau3.mpd
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-name="Bild TV Live" tvg-id="BILD.de"" tvg-logo="https://i.imgur.com/dV3u1uS.png" group-title="GERMANY",Bild TV Live
